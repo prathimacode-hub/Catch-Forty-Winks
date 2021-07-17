@@ -1,0 +1,6 @@
+APScheduler==3.6.3
+configparser==5.0.0
+plyer==1.4.3
+PyQt5==5.14.2
+PyQt5-sip==12.7.2
+PyQt5-stubs==5.14.2.2
