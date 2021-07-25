@@ -1,6 +1,6 @@
 ## Catch-Forty-Winks: Take a Siesta
 
-### Take a Break Hack MLH Bon Voyage Hacks 
+## BonVoyage Hacks 2021 - MLH
 
 ### Project
 
